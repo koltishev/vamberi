@@ -1483,12 +1483,12 @@ footer {
 
 .fashion p {
   font-weight: 300;
-  font-size: 35px;
+  font-size: 31px;
 }
 
 .fashion__headline {
   font-weight: 800;
-  font-size: 91px;
+  font-size: 90px;
 }
 
 .fashion__img {
@@ -1600,13 +1600,13 @@ footer {
 }
 
 .cases__headline h2:first-child {
-  margin-bottom: -190px;
-  font-size: 115px;
+  margin-bottom: -181px;
+  font-size: 90px;
 }
 
 .cases__headline h2:last-child {
-  margin-top: -140px;
-  font-size: 115px;
+  margin-top: -130px;
+  font-size: 90px;
 }
 
 .cases__desc {
@@ -1674,7 +1674,7 @@ footer {
 }
 
 .comunity__headline img {
-  max-width: 60rem;
+  max-width: 68rem;
   max-height: 94.75rem;
   width: 100%;
   height: 100%;
@@ -1744,7 +1744,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 55px;
+  font-size: 42px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -2526,9 +2526,9 @@ footer {
 }
 
 .team__img {
-  max-width: 20.5625rem;
-  max-height: 23.0625rem;
-  min-height: 11rem;
+  max-width: 17.5625rem;
+  max-height: 26.0625rem;
+  min-height: 16rem;
   margin: 0 auto;
   width: 100%;
   height: 100%;
@@ -2538,7 +2538,7 @@ footer {
 
 .team__desc {
   padding-top: 0.375rem;
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   line-height: 1.3;
   text-align: center;
 }
@@ -2884,12 +2884,12 @@ footer {
 }
 
 .benefit__headline--1 {
-  margin-bottom: -107px;
+  margin-bottom: -137px;
   font-size: 68px;
 }
 
 .benefit__headline--2 {
-  margin-top: -92px;
+  margin-top: -120px;
   font-size: 68px;
 }
 
@@ -2900,8 +2900,8 @@ footer {
 }
 
 .benefit__headline-img {
-  max-height: 27rem;
-  max-width: 39.625rem;
+  max-height: 35rem;
+  max-width: 65.625rem;
   width: 100%;
   height: 100%;
   -o-object-fit: contain;
@@ -3087,7 +3087,7 @@ footer {
   position: relative;
   z-index: 1;
   margin-top: -31.5rem;
-  max-width: 750px;
+  max-width: 993px;
   max-height: 584px;
   width: 100%;
   height: 100%;
@@ -3099,7 +3099,7 @@ footer {
   position: absolute;
   top: 836px;
   right: -275px;
-  max-width: 790px;
+  max-width: 1014px;
   max-height: 1015px;
   width: 100%;
   height: 100%;
@@ -3302,11 +3302,11 @@ footer {
 
   .benefit__headline-img {
     max-height: 35rem;
-    max-width: 45.625rem;
+    max-width: 65.625rem;
   }
 
   .benefit__item {
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .benefit__item--1 {
@@ -3327,8 +3327,11 @@ footer {
   }
 
   .benefit__item--4 {
-    max-width: 32.5rem;
-    padding: 26px;
+    max-width: 32.5rempx;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 26px;
+    padding-right: 26px;
   }
 
   .benefit__item--5 {
@@ -4011,11 +4014,11 @@ footer {
   }
 
   .fashion p {
-    font-size: calc(18px + 14 * ((100vw - 320px) / 1600));
+    font-size: calc(20px + 14 * ((100vw - 320px) / 1600));
   }
 
   .fashion__headline {
-    font-size: calc(50px + 0 * ((100vw - 320px) / 1600));
+    font-size: calc(44px + 23 * ((100vw - 320px) / 1600));
   }
 
   .fashion__img-wrap {
@@ -4051,7 +4054,7 @@ footer {
   }
 
   .cases__headline h2:last-child {
-    font-size: calc(42px + 73 * ((100vw - 320px) / 1600));
+    font-size: calc(42px + 55 * ((100vw - 320px) / 1600));
   }
 
   .cases__items {
@@ -4522,7 +4525,7 @@ footer {
   }
 
   .team__headline {
-    font-size: calc(48px + ((100vw - 320px) / 1600));
+    font-size: calc(43px + ((100vw - 320px) / 1600));
   }
 
   .roadmap {
@@ -4714,7 +4717,7 @@ footer {
   }
 
   .benefit__headline--1 {
-    margin-bottom: calc(-45px + -58 * ((100vw - 320px) / 1600));
+    margin-bottom: calc(-52px + -58 * ((100vw - 320px) / 1600));
   }
 
   .benefit__headline--1 {
@@ -4722,7 +4725,7 @@ footer {
   }
 
   .benefit__headline--2 {
-    margin-top: calc(-27px + -58 * ((100vw - 320px) / 1600));
+    margin-top: calc(-42px + -58 * ((100vw - 320px) / 1600));
   }
 
   .benefit__headline--2 {
@@ -5006,7 +5009,7 @@ footer {
   }
 
   .benefit__img-3 {
-    max-width: calc(471px + 192 * ((100vw - 320px) / 1600));
+    max-width: calc(667px + 192 * ((100vw - 320px) / 1600));
   }
 
   .benefit__img-3 {
@@ -6148,7 +6151,7 @@ footer {
 
   .benefit__headline-img {
     max-height: 20.625rem;
-    max-width: 33.625rem;
+    max-width: 38.625rem;
   }
 
   .benefit__content {
@@ -6176,76 +6179,100 @@ footer {
 
   .benefit__item--1 {
     width: 100%;
-    max-width: 20.1875rem;
-    min-width: 20.1875rem;
-    padding: 21px 32px 22px;
+    max-width: 22.1875rem;
+    min-width: 22.1875rem;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    padding-left: 32px;
+    padding-right: 32px;
     margin-top: 12.25rem;
   }
 
   .benefit__item--2 {
-    max-width: 16.8125rem;
-    min-width: 16.8125rem;
+    max-width: 18.8125rem;
+    min-width: 18.8125rem;
     margin-left: 58%;
     margin-top: 7.3%;
-    padding: 25px 29px 26px;
+    padding-top: 25px;
+    padding-bottom: 26px;
+    padding-left: 29px;
+    padding-right: 29px;
   }
 
   .benefit__item--3 {
-    max-width: 18.9375rem;
-    min-width: 18.9375rem;
+    max-width: 20.9375rem;
+    min-width: 20.9375rem;
     margin-left: 14%;
     margin-top: 7.4%;
-    padding: 30px 28px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
   }
 
   .benefit__item--4 {
-    max-width: 18rem;
-    min-width: 18rem;
+    max-width: 20rem;
+    min-width: 20rem;
     margin-left: -48%;
     margin-top: 4.5%;
   }
 
   .benefit__item--5 {
-    max-width: 22.875rem;
-    min-width: 22.875rem;
+    max-width: 24.875rem;
+    min-width: 24.875rem;
     margin-top: 3.7%;
     margin-left: 38.9%;
-    padding: 24px 34px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 34px;
+    padding-right: 34px;
   }
 
   .benefit__item--6 {
-    max-width: 18.0625rem;
-    min-width: 18.0625rem;
+    max-width: 20.0625rem;
+    min-width: 20.0625rem;
     margin-left: -32.7%;
-    padding: 13px 34px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 34px;
+    padding-right: 34px;
   }
 
   .benefit__item--7 {
-    max-width: 15.125rem;
-    min-width: 15.125rem;
+    max-width: 17.125rem;
+    min-width: 17.125rem;
     margin-top: 0;
     margin-left: 31.3%;
-    padding: 20px 31px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
   }
 
   .benefit__item--8 {
-    max-width: 13rem;
-    min-width: 13rem;
+    max-width: 15rem;
+    min-width: 15rem;
     margin-left: 28.7%;
-    padding: 26px 21px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 21px;
+    padding-right: 21px;
   }
 
   .benefit__item--9 {
-    max-width: 12.5625rem;
-    min-width: 12.5625rem;
+    max-width: 14.5625rem;
+    min-width: 14.5625rem;
     margin-top: 30.9%;
     margin-left: 43.7%;
-    padding: 30px 24px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .benefit__item--10 {
-    max-width: 13.4375rem;
-    min-width: 13.4375rem;
+    max-width: 15.4375rem;
+    min-width: 15.4375rem;
     margin-top: 33.1%;
     margin-left: 19.3%;
   }
@@ -6368,7 +6395,7 @@ footer {
   }
 
   .benefit__item {
-    font-size: calc(14px + 6 * ((100vw - 320px) / 1600));
+    font-size: calc(16px + 9 * ((100vw - 320px) / 1600));
   }
 
   .benefit__item--1 {
@@ -6751,7 +6778,7 @@ footer {
 
 @media (min-width: 768px) and (max-width: 100em) and (max-width: 1920px) {
   .team__headline {
-    font-size: calc(61px + ((100vw - 320px) / 1600));
+    font-size: calc(51px + ((100vw - 320px) / 1600));
   }
 }
 
