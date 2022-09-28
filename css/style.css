@@ -2901,7 +2901,7 @@ footer {
 
 .benefit__headline-img {
   max-height: 35rem;
-  max-width: 65.625rem;
+  max-width: 24.625rem;
   width: 100%;
   height: 100%;
   -o-object-fit: contain;
@@ -4185,7 +4185,7 @@ footer {
   }
 
   .hero-about__headline {
-    font-size: calc(51px + 3 * ((100vw - 320px) / 1600));
+    font-size: calc(41px + 3 * ((100vw - 320px) / 1600));
   }
 
   .hero-about__img {
@@ -4469,7 +4469,7 @@ footer {
   }
 
   .mission__headline {
-    font-size: calc(50px + 20 * ((100vw - 320px) / 1600));
+    font-size: calc(43px + 20 * ((100vw - 320px) / 1600));
   }
 
   .mission__desc p + p {
@@ -4525,7 +4525,7 @@ footer {
   }
 
   .team__headline {
-    font-size: calc(43px + ((100vw - 320px) / 1600));
+    font-size: calc(40px + ((100vw - 320px) / 1600));
   }
 
   .roadmap {
@@ -4717,7 +4717,7 @@ footer {
   }
 
   .benefit__headline--1 {
-    margin-bottom: calc(-52px + -58 * ((100vw - 320px) / 1600));
+    margin-bottom: calc(-39px + -58 * ((100vw - 320px) / 1600));
   }
 
   .benefit__headline--1 {
@@ -4725,7 +4725,7 @@ footer {
   }
 
   .benefit__headline--2 {
-    margin-top: calc(-42px + -58 * ((100vw - 320px) / 1600));
+    margin-top: calc(-27px + -58 * ((100vw - 320px) / 1600));
   }
 
   .benefit__headline--2 {
@@ -5009,7 +5009,7 @@ footer {
   }
 
   .benefit__img-3 {
-    max-width: calc(667px + 192 * ((100vw - 320px) / 1600));
+    max-width: calc(555px + 192 * ((100vw - 320px) / 1600));
   }
 
   .benefit__img-3 {
@@ -5063,7 +5063,7 @@ footer {
 
 @media (max-width: 100em) {
   .mission__hero {
-    max-width: 23.8125rem;
+    max-width: 17.8125rem;
     max-height: 11.8125em;
   }
 }
@@ -6151,7 +6151,7 @@ footer {
 
   .benefit__headline-img {
     max-height: 20.625rem;
-    max-width: 38.625rem;
+    max-width: 33.625rem;
   }
 
   .benefit__content {
@@ -6181,10 +6181,7 @@ footer {
     width: 100%;
     max-width: 22.1875rem;
     min-width: 22.1875rem;
-    padding-top: 21px;
-    padding-bottom: 22px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding: 21px 32px 22px;
     margin-top: 12.25rem;
   }
 
@@ -6193,10 +6190,7 @@ footer {
     min-width: 18.8125rem;
     margin-left: 58%;
     margin-top: 7.3%;
-    padding-top: 25px;
-    padding-bottom: 26px;
-    padding-left: 29px;
-    padding-right: 29px;
+    padding: 25px 29px 26px;
   }
 
   .benefit__item--3 {
@@ -6204,15 +6198,12 @@ footer {
     min-width: 20.9375rem;
     margin-left: 14%;
     margin-top: 7.4%;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 28px;
-    padding-right: 28px;
+    padding: 30px 28px;
   }
 
   .benefit__item--4 {
-    max-width: 20rem;
-    min-width: 20rem;
+    max-width: 18rem;
+    min-width: 18rem;
     margin-left: -48%;
     margin-top: 4.5%;
   }
@@ -6222,20 +6213,14 @@ footer {
     min-width: 24.875rem;
     margin-top: 3.7%;
     margin-left: 38.9%;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    padding-left: 34px;
-    padding-right: 34px;
+    padding: 24px 34px;
   }
 
   .benefit__item--6 {
     max-width: 20.0625rem;
     min-width: 20.0625rem;
     margin-left: -32.7%;
-    padding-top: 13px;
-    padding-bottom: 13px;
-    padding-left: 34px;
-    padding-right: 34px;
+    padding: 13px 34px;
   }
 
   .benefit__item--7 {
@@ -6243,20 +6228,14 @@ footer {
     min-width: 17.125rem;
     margin-top: 0;
     margin-left: 31.3%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 31px;
-    padding-right: 31px;
+    padding: 20px 31px;
   }
 
   .benefit__item--8 {
     max-width: 15rem;
     min-width: 15rem;
     margin-left: 28.7%;
-    padding-top: 26px;
-    padding-bottom: 26px;
-    padding-left: 21px;
-    padding-right: 21px;
+    padding: 26px 21px;
   }
 
   .benefit__item--9 {
@@ -6264,10 +6243,7 @@ footer {
     min-width: 14.5625rem;
     margin-top: 30.9%;
     margin-left: 43.7%;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding: 30px 24px;
   }
 
   .benefit__item--10 {
@@ -6395,7 +6371,7 @@ footer {
   }
 
   .benefit__item {
-    font-size: calc(16px + 9 * ((100vw - 320px) / 1600));
+    font-size: calc(13px + 9 * ((100vw - 320px) / 1600));
   }
 
   .benefit__item--1 {
