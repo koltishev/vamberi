@@ -215,7 +215,6 @@ if( window.innerWidth < 768 ) {
     autoplay: true,
     autoplaySpeed: 15000,
     speed: 300,
-    adaptiveHeight: true
   });
 }
 
