@@ -610,7 +610,8 @@ footer {
 }
 
 .slick-dots {
-  position: absolute;
+  position: relative;
+  margin-top: -64px;
   z-index: 1;
   list-style: none;
   display: flex;
@@ -698,7 +699,6 @@ footer {
 }
 
 .team .slick-dots {
-  bottom: 0px;
 }
 
 .team li {
@@ -3770,7 +3770,7 @@ footer {
   }
 
   .team .slick-dots {
-    bottom: 30px;
+
   }
 
   .btn {
@@ -4469,7 +4469,7 @@ footer {
   }
 
   .mission__headline {
-    font-size: calc(43px + 20 * ((100vw - 320px) / 1600));
+    font-size: calc(55px + 20 * ((100vw - 320px) / 1600));
   }
 
   .mission__desc p + p {
@@ -5477,7 +5477,7 @@ footer {
   }
 
   .team__content {
-    margin: 0 -0.9375rem;
+    margin: 31px -0.9375rem;
   }
 
   .team__item {
@@ -6592,7 +6592,7 @@ footer {
 
 @media (min-width: 990px) and (max-width: 102.5em) {
   .fashion p {
-    font-size: 1.5625rem;
+    font-size: 1.1625rem;
   }
 }
 
