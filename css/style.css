@@ -3770,7 +3770,7 @@ footer {
   }
 
   .team .slick-dots {
-    bottom: calc(30px + -30 * ((100vw - 320px) / 1600));
+    bottom: 30px;
   }
 
   .btn {
