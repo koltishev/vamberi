@@ -3323,7 +3323,7 @@ bottom: 0;
 
   .benefit__item--7 {
     margin-top: 7.8125rem;
-    max-width: 21.6875rempx;
+    max-width: 21.6875rem;
   }
 
   .benefit__item--8 {
@@ -5554,7 +5554,7 @@ bottom: 0;
 @media (max-width: 768px) and (max-width: 1920px) {
   .comunity__headline img {
     margin-left: calc(-6px + -50 * ((100vw - 320px) / 1600));
-    object-fit: fill;
+    object-fit: contain;
   }
 }
 
