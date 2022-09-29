@@ -737,6 +737,10 @@ footer {
   top: 7.0625rem;
 }
 
+.team__content  .slick-dots {
+bottom: 0;
+}
+
 .team__content .slick-prev {
   right: 1.25rem;
 }
