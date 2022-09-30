@@ -3183,7 +3183,7 @@ bottom: 0;
   }
 
   .art__hedline {
-    max-width: 51%;
+    max-width: 31%;
   }
 
   .art__desc p + p {
@@ -3991,7 +3991,7 @@ bottom: 0;
   }
 
   .fashion p {
-    font-size: calc(20px + 14 * ((100vw - 320px) / 1600));
+    font-size: calc(17px + 14 * ((100vw - 320px) / 1600));
   }
 
   .fashion__headline {
@@ -5752,7 +5752,7 @@ bottom: 0;
   }
 
   .art__hedline-wrap {
-    max-width: 85%;
+    max-width: 71%;
   }
 
   .art__hedline-ico {
