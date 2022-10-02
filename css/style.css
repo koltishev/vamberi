@@ -5755,7 +5755,7 @@ bottom: 0;
   }
 
   .art__hedline-wrap {
-    max-width: 71%;
+    max-width: 80%;
   }
 
   .art__hedline-ico {
@@ -6530,10 +6530,6 @@ bottom: 0;
 
 @media (min-width: 70em) and (max-width: 91.25em) {
   .art__content {
-    padding-left: 7%;
-  }
-
-  .art__hedline {
     padding-left: 7%;
   }
 }
