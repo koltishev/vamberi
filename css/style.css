@@ -1940,7 +1940,7 @@ bottom: 0;
   width: 100%;
   height: 100%;
   -o-object-fit: contain;
-  object-fit: fill;
+  object-fit: contain;
 }
 
 .hero-about__img-bg-l {
@@ -3995,7 +3995,7 @@ bottom: 0;
   }
 
   .fashion__headline {
-    font-size: calc(44px + 23 * ((100vw - 320px) / 1600));
+    font-size: calc(36px + 23 * ((100vw - 320px) / 1600));
   }
 
   .fashion__img-wrap {
@@ -5205,8 +5205,11 @@ bottom: 0;
   }
 
   .hero-about__img {
-    margin-left: -0.9375rem;
-    min-width: 100vw;
+    min-width: 65vw;
+  }
+
+  .hero-about__img {
+    max-width: 42rem;
   }
 
   .history__content {
